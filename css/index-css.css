@@ -1,0 +1,15 @@
+div{
+    width: 500px;
+    margin: auto;
+}
+body{
+    background-color: gray;
+}
+blockquote {
+    border-width: 5px;
+    border-color:antiquewhite;
+    border-style: solid;
+    padding: 20px;
+    text-align: center;
+    margin-left: 0px;
+}
